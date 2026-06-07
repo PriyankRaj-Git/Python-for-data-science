@@ -1,0 +1,1 @@
+This folder is created to practice OOPs concepts in Python. It contains various files that demonstrate the implementation of OOPs principles such as encapsulation, inheritance, polymorphism, and abstraction. Each file focuses on a specific concept and provides examples to help understand how OOPs works in Python.
